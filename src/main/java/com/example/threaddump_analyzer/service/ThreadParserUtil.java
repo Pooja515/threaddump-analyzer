@@ -3,7 +3,6 @@ package com.example.threaddump_analyzer.service;
 import com.example.threaddump_analyzer.model.ThreadInfo;
 
 import java.util.Arrays;
-import java.util.List;
 import java.util.UUID;
 
 public class ThreadParserUtil {

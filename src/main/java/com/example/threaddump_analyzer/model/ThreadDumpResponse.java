@@ -1,7 +1,6 @@
 package com.example.threaddump_analyzer.model;
 
 import lombok.*;
-import com.example.threaddump_analyzer.model.ThreadInfo;
 
 import java.util.List;
 

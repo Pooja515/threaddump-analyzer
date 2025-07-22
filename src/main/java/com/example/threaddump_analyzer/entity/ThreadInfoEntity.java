@@ -1,6 +1,7 @@
 package com.example.threaddump_analyzer.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
+
 import lombok.*;
 
 import java.util.List;
